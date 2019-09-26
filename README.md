@@ -53,6 +53,6 @@ Currently the API can ONLY process **JSON** payloads. As a result the service wo
                    }
 ```
 ### Java Script file which utilizes Fetch API
-This file contains Java Script Fetch API calls to the above 3 services and the response from the API calls are printed out to the console.
+**FetchJS.js** contains Java Script Fetch API calls to the above 3 services and the response from the API calls are printed out to the console.
 
 This Java script code was tested on NodeJS platform. Since NodeJS doesn't support fetch function node-fetch library is used.
