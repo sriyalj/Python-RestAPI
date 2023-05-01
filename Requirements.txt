@@ -1,4 +1,4 @@
-flask==1.0.2
+flask==2.3.2
 mongodb==4.0.12
 flask-pymongo==3.9.0
 
